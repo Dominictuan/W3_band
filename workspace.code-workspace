@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\Git"
+		},
+		{
+			"path": "..\\Javascript"
+		},
+		{
+			"path": "..\\Javascript\\BT1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
